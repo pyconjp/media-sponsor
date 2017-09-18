@@ -27,7 +27,7 @@
 おっと、思ったよりも少ないですね。  
 それではパネルディスカッションを始めていきますが、壇上の皆さんは英語を使うことのメリットをどう捉えていますか？  
 
-![kojima_san](https://www.flickr.com/photos/pyconjp/36958028746/in/album-72157685754005651/)  
+<img src="https://www.flickr.com/photos/pyconjp/36958028746/in/album-72157685754005651/" alt="kojima_san">  
 （小島氏）  
 
 ＜小椋氏＞  
@@ -42,7 +42,7 @@
 言葉の違いもそうですが、文化圏が異なるとコミュニケーションにも違いが出てきますよね。  
 以前私がいた会社ではカルチャーの違いを学ぶという研修がありました。  
 
-![sakamoto_san](https://www.flickr.com/photos/pyconjp/36310817234/in/album-72157685754005651/)  
+<img src="https://www.flickr.com/photos/pyconjp/36310817234/in/album-72157685754005651/" alt="sakamoto_san">  
 （坂本氏）  
 
 ＜小島氏＞  
@@ -61,7 +61,7 @@
 ＜小椋氏＞  
 英語を公用語にしたことで、優秀なグローバル人材が応募してくれるようになりました。採用面からも良い影響を享受しています。  
 
-![ogura_san](https://www.flickr.com/photos/pyconjp/37114836405/in/album-72157685754005651/)  
+<img src="https://www.flickr.com/photos/pyconjp/37114836405/in/album-72157685754005651/" alt="ogura_san">  
 （小椋氏）  
 
 ＜坂本氏＞  
@@ -75,7 +75,7 @@
 私は英語はネイティブではないので、うまく言いたいことが伝わらないことがあります。そこは努力が必要ですね。  
 ただ、経営するホテルは日本人以外の利用も多いので、ビジネスをする上で英語脳はうまく役立っていると感じています。  
 
-![sekine_san](https://www.flickr.com/photos/pyconjp/36310815644/in/album-72157685754005651/)  
+<img src="https://www.flickr.com/photos/pyconjp/36310815644/in/album-72157685754005651/" alt="sekine_san">  
 （関根氏）  
 
 ＜小島氏＞  
@@ -95,7 +95,7 @@
 オンライン英会話などで勉強しています。  
 きっかけはなんでもいいと思いますが、本日も外国人の参加者が多くいらっしゃっているので、まず彼らと話してみるというのもきっかけになりそうですね。  
 
-![nakamura_san](https://www.flickr.com/photos/pyconjp/36310816564/in/album-72157685754005651/)  
+<img src="https://www.flickr.com/photos/pyconjp/36310816564/in/album-72157685754005651/" alt="nakamura_san">  
 （中村氏）  
 
 ＜小島氏＞  
@@ -117,7 +117,7 @@
 ＜小椋氏＞  
 英語を話せると色々な人と友達になれます。海外カンファレンスは外国の方とコミュニケーションをする良い機会だと思います。  
 
-![all](https://www.flickr.com/photos/pyconjp/37114836305/in/album-72157685754005651/)  
+<img src="https://www.flickr.com/photos/pyconjp/37114836305/in/album-72157685754005651/" alt="all">  
 （全員揃って）  
 
 以上、パネルディスカッションでした。  
