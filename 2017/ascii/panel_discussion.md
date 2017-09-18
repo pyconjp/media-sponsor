@@ -27,7 +27,7 @@
 おっと、思ったよりも少ないですね。  
 それではパネルディスカッションを始めていきますが、壇上の皆さんは英語を使うことのメリットをどう捉えていますか？  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36958028746/in/album-72157685754005651/" title="IMG_4723"><img src="https://farm5.staticflickr.com/4338/36958028746_8cdf80310c_o.jpg" width="5386" height="3591" alt="IMG_4723"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36958028746/in/album-72157685754005651/" title="IMG_4723"><img src="https://farm5.staticflickr.com/4338/36958028746_8cdf80310c_o.jpg" width="640" height="427" alt="IMG_4723"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 （小島氏）  
 
 ＜小椋氏＞  
@@ -42,7 +42,7 @@
 言葉の違いもそうですが、文化圏が異なるとコミュニケーションにも違いが出てきますよね。  
 以前私がいた会社ではカルチャーの違いを学ぶという研修がありました。  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36310817234/in/album-72157685754005651/" title="IMG_4729"><img src="https://farm5.staticflickr.com/4434/36310817234_a648fdfe06_o.jpg" width="5430" height="3620" alt="IMG_4729"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36310817234/in/album-72157685754005651/" title="IMG_4729"><img src="https://farm5.staticflickr.com/4434/36310817234_a648fdfe06_o.jpg" width="640" height="427" alt="IMG_4729"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 （坂本氏）  
 
 ＜小島氏＞  
@@ -61,7 +61,7 @@
 ＜小椋氏＞  
 英語を公用語にしたことで、優秀なグローバル人材が応募してくれるようになりました。採用面からも良い影響を享受しています。  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/37114836405/in/album-72157685754005651/" title="IMG_9421"><img src="https://farm5.staticflickr.com/4430/37114836405_bc076a465c_o.jpg" width="4680" height="3120" alt="IMG_9421"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/37114836405/in/album-72157685754005651/" title="IMG_9421"><img src="https://farm5.staticflickr.com/4430/37114836405_bc076a465c_o.jpg" width="640" height="427" alt="IMG_9421"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 （小椋氏）  
 
 ＜坂本氏＞  
@@ -75,7 +75,7 @@
 私は英語はネイティブではないので、うまく言いたいことが伝わらないことがあります。そこは努力が必要ですね。  
 ただ、経営するホテルは日本人以外の利用も多いので、ビジネスをする上で英語脳はうまく役立っていると感じています。  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36310815644/in/album-72157685754005651/" title="IMG_4739"><img src="https://farm5.staticflickr.com/4372/36310815644_84b88cb2fc_o.jpg" width="5616" height="3744" alt="IMG_4739"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36310815644/in/album-72157685754005651/" title="IMG_4739"><img src="https://farm5.staticflickr.com/4372/36310815644_84b88cb2fc_o.jpg" width="640" height="427" alt="IMG_4739"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 （関根氏）  
 
 ＜小島氏＞  
@@ -95,7 +95,7 @@
 オンライン英会話などで勉強しています。  
 きっかけはなんでもいいと思いますが、本日も外国人の参加者が多くいらっしゃっているので、まず彼らと話してみるというのもきっかけになりそうですね。  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36310816564/in/album-72157685754005651/" title="IMG_4734"><img src="https://farm5.staticflickr.com/4367/36310816564_671cea7126_o.jpg" width="5301" height="3534" alt="IMG_4734"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36310816564/in/album-72157685754005651/" title="IMG_4734"><img src="https://farm5.staticflickr.com/4367/36310816564_671cea7126_o.jpg" width="640" height="427" alt="IMG_4734"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 （中村氏）  
 
 ＜小島氏＞  
@@ -117,7 +117,7 @@
 ＜小椋氏＞  
 英語を話せると色々な人と友達になれます。海外カンファレンスは外国の方とコミュニケーションをする良い機会だと思います。  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/37114836305/in/album-72157685754005651/" title="IMG_9446"><img src="https://farm5.staticflickr.com/4363/37114836305_38511aec44_o.jpg" width="4680" height="3120" alt="IMG_9446"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/37114836305/in/album-72157685754005651/" title="IMG_9446"><img src="https://farm5.staticflickr.com/4363/37114836305_38511aec44_o.jpg" width="640" height="427" alt="IMG_9446"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 （全員揃って）  
 
 以上、パネルディスカッションでした。  
