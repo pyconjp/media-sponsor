@@ -1,5 +1,5 @@
 # 山口 祐子(ヤマグチ ユウコ)  
-![yuko](../_static/yuko.jpg)  
+![yuko](_static/yuko.jpg)  
 
 [PyCon JP 2017](https://pycon.jp/2017/) 広報・メディアスポンサー担当。  
 PyCon JPは2016年から参加。  
