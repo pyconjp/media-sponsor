@@ -15,7 +15,7 @@ PyCon JP 2017では、１日目、２日目ともにクロージングでライ�
 ここに写真を挿入
 
 Miyazaki氏は、自身で作成したWEBアプリケーションのプロファイラ「wsgi_lineprof」についてお話をされました。
-氏は、ISUCONに参加された際の経験
+
 ISUCONでは、限られた時間の中で既存のアプリケーションをより早く動くようにチューニングし、ベンチマークの数値を競います。
 
 チューニングをするためにアプリケーションのボトルネックとなっている箇所を特定していきますが、そのためにはプロファイラの使用が必須です。
@@ -32,23 +32,57 @@ WEBアプリを作るのが好きな人。
 
 
 
-## ２つ目は、Takuya Noguchi氏による「OSS-Friday」の紹介です。
+## ２つ目は、@nasa9084氏による「Dockerをローカルでドカドカ使う」の紹介です。
 
-ここに写真を挿入
+ここに写真
 
-これから書く
+コンテナプラットフォームであるDockerについて
+今も使っている人はだいぶ減る
+コンテナプラットフォームです
+
+言語の実行環境のコンテナ化
+データベースのコンテナ化
+コマンドのコンテナ化
+について、具体的な実行例を提示して、メリットについて説明をされて胃mした
+
+コンテナ化することのメリットとして、OSによらない環境を用意することができる、テスト実行のたびに初期化された環境を利用することがdケイル
+などを挙げられていました。
+
+データベースのコンテナかあderbレア、テスト環境もコンテナ化して
+言語の実行環境をコンテナ化するとホストOSによらず環境を用意できるので非常に便利。
+どっかーコンテナを投げるだけでオッケー
+テスト環境もコンテナ化しておけば毎回新しい環境でテストできる
+古い環境依存の問題を解消できる
+
+データベースコンテナかで
+利点、
+mysqlの今テナーが立って、pymyql
+postgres
+もできる
+何がいい？
+毎回初期状態から使えるのでテストで有用
+複数データベースを立てられるのでデータベース名が重複していても門愛ない
+
+コンテナをコマンドとして使う
+ローカルホストでコンテナのよう
+コマンドをコンテナ化する
+dockerfileでテキストで保存もできるので便利
+
+Dockerをよくわからないという人も、いきなりプロダクションレベルでの利用を想定せずに
+まずはローカル環境でVMのように使ってみて便利さを実感して欲しいと話されていました。
+
 
 
 # ライトニングトークの一覧
 1日目の内容を以下の通りです。
-* ギャル語ほんやく : PyLadies Tokyo hack-a-thon
-* Introducing wsgi_lineprof : Yusuke Miyazaki(https://github.com/ymyzk)
-* Respect the Built-in Names : Hayao Suzuki(https://twitter.com/cardinalxaro)
-* 誰でも簡単に暗号通貨の取引Botを作れるようにしてみた : Daiki Shiroi(https://twitter.com/catcat_festival)
-* Pythonが動く仕組み : Yoshiaki Shibutani(https://github.com/yotchang4s)
-* OSS Friday : Takuya Noguchi(https://twitter.com/tn961ir?lang=ja)
-* Dockerをローカルでドカドカ使う(from RejectCon) : @nasa9084
-* 多言語の菓子の音声認識 : @RenyuanLyu
+* ギャル語ほんやく : [PyLadies Tokyo hack-a-thon](https://pyladies-tokyo.connpass.com/)
+* Introducing wsgi_lineprof : [Yusuke Miyazaki](https://github.com/ymyzk)
+* Respect the Built-in Names : [Hayao Suzuki](https://twitter.com/cardinalxaro)
+* 誰でも簡単に暗号通貨の取引Botを作れるようにしてみた : [Daiki Shiroi](https://twitter.com/catcat_festival)
+* Pythonが動く仕組み : [Yoshiaki Shibutani](https://github.com/yotchang4s)
+* OSS Friday : [Takuya Noguchi](https://twitter.com/tn961ir?lang=ja)
+* Dockerをローカルでドカドカ使う : [@nasa9084](https://twitter.com/nasa9084)
+* 多言語の歌詞の音声認識 : [@RenyuanLyu](https://twitter.com/renyuanlyu)
 
 [PyCon JP 2017 クロージング動画](https://www.youtube.com/watch?v=cUewj2kRrbk&index=4&list=WL)
 
@@ -56,6 +90,6 @@ WEBアプリを作るのが好きな人。
 # 次回は？
 1日目のカンファレンスレポート、いかがでしたでしょうか。PyCon JP 2017のカンファレンスは2日間で40を超えるセッションが開催されました。今回紹介できなかったセッションに下記のリンクから、ビデオや資料を見ることができますのでぜひご覧になってください。
 
-[PyCon JP 2017 トーク一覧]()
+[PyCon JP 2017 トーク一覧](https://pycon.jp/2017/ja/schedule/talks/list/)
 
 次回、カンファレンス２日目のレポートもお楽しみに！
