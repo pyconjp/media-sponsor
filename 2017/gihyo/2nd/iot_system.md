@@ -12,10 +12,7 @@
 
 北神さんがIoTに精通しているということで、おそらく会場の皆さんは「IoTでこんなことができました」系のトークを期待されていたと思います。  
 しかし北神さんは「できました系の話はつまらない。私はなぜそれができたかの話をします」というかっこいい発言で会場を沸かせていました。  
-
-```
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36303044513/in/album-72157685754005651/" title="IMG_9558"><img src="https://farm5.staticflickr.com/4441/36303044513_8417bd2950_o.jpg" width="640" height="427" alt="IMG_9558"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-```
 
 「IoT時代においてPythonは最強」という主張をした北神さん。  
 Pythonはハードウェアが扱えるということがその理由だそうです。  
