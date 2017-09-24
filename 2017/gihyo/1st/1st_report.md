@@ -99,16 +99,16 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ### 資料リンク
 
-* [動画]()
-* [スライド]()
+* [動画](https://www.youtube.com/watch?v=2nChvKvqJ1Y)
+* [論文](https://www.slideshare.net/otanet/pycon-jp2017-20170908docota)
 
 # 1日目注目セッション「Pythonと機械学習によるWebセキュリティの自動化」 ― Isao Takaesu
 (海老原 由夫樹)
 
 ### 資料リンク
 
-* [動画]()
-* [スライド]()
+* [動画](https://www.youtube.com/watch?v=BvtgbUy0BxA)
+* [スライド](https://www.slideshare.net/babaroa/pythonweb-79571974?ref=https://techplay.jp/slide/171764)
 
 
 # 1日目注目イベント メディア会議
