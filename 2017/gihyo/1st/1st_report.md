@@ -97,9 +97,18 @@ Type "help", "copyright", "credits" or "license" for more information.
 # 1日目注目セッション「Pythonによる文章自動生成入門！Python ✖︎ 自然言語処理 ✖︎ ディープラーニング」 ― Hiromitsu Ota
 (海老原 由夫樹)
 
+### 資料リンク
+
+* [動画]()
+* [スライド]()
 
 # 1日目注目セッション「Pythonと機械学習によるWebセキュリティの自動化」 ― Isao Takaesu
 (海老原 由夫樹)
+
+### 資料リンク
+
+* [動画]()
+* [スライド]()
 
 
 # 1日目注目イベント メディア会議
@@ -145,6 +154,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 今回のイベントをきっかけに、新しい本や、著者が生まれることを楽しみにしています。
 
+### 資料リンク
+
+* [動画](https://www.youtube.com/watch?v=kCRdEr5M9q4)
 
 # 1日目ライトニングトーク
 (小林 正彦)
@@ -204,7 +216,7 @@ Dockerは、アプリケーションやミドルウェア単位で利用する�
 Dockerをよくわからないという人は、いきなりプロダクションレベルでの利用を目指す前に、
 まずはローカル環境でVMのように使ってみてその便利さを実感して欲しいと話されていました。
 
-### 1日目ライトニングトークの資料リンク
+### 1日目ライトニングトーク一覧
 
 * ギャル語ほんやく : [PyLadies Tokyo hack-a-thon](https://pyladies-tokyo.connpass.com/)
 * Introducing wsgi_lineprof : [Yusuke Miyazaki](https://github.com/ymyzk)
@@ -215,7 +227,9 @@ Dockerをよくわからないという人は、いきなりプロダクショ�
 * Dockerをローカルでドカドカ使う : [@nasa9084](https://twitter.com/nasa9084)
 * 多言語の歌詞の音声認識 : [@RenyuanLyu](https://twitter.com/renyuanlyu)
 
-[PyCon JP 2017 クロージング動画](https://www.youtube.com/watch?v=cUewj2kRrbk&index=4&list=WL)
+### 資料リンク
+
+* [動画](https://www.youtube.com/watch?v=cUewj2kRrbk&index=4&list=WL)
 
 
 # 次回は？
