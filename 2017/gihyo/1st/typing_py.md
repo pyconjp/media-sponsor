@@ -1,10 +1,12 @@
 # 1日目注目セッション「ベンリに使おう変数アノテーション - typing.pyとの楽しいお付き合い」 - Takumi Sueda
 
-ここでは、Takumi Sueda氏による変数アノテーションをテーマにしたセッションを紹介します。
+Takumi Sueda氏による変数アノテーションをテーマにしたセッションを紹介します。
 Sueda氏はFuller, Inc.に所属するエンジニアで、普段はPythonやGo言語を扱っており、この講演はGo言語にあるUnmarshalerという機能を、アノテーションを利用してPythonへ移植してみるという内容のセッションでした。
 
 まずPythonのアノテーションの背景として、[PEP 3107](https://www.python.org/dev/peps/pep-3107/)、[PEP 484](https://www.python.org/dev/peps/pep-0484/)、[PEP 526](https://www.python.org/dev/peps/pep-0526/)の紹介がなされた後、移植したい機能であるGo言語のUnmarchalerについての説明がありました。
 Sueda氏曰く、これは「PythonのjsonライブラリよりPythonic」だと感じる機能のようで、本セッションのモチベーションはこの点にあったようです。
+
+![写真: Unmarchalerについての説明をするSueda氏](./36964031691_8ffbc472d2_z.jpg)
 
 そして、ここからは実際にPythonでbuiltin型、ジェネリック型、カスタムクラスを正しく区別し処理するunmarshalerを作成した過程をみていきます。
 
