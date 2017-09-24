@@ -1,5 +1,5 @@
 # 小林 正彦（こばやし まさひこ）
-![]()
+![](./_static/kobayashi.jpg)
 
 メディアスポンサー対応、PyCon JP 2017 メディア会議企画担当。
 PyCon JPにはPyCon JP 2017にスタッフとして初参加。
