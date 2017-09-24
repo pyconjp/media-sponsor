@@ -17,7 +17,7 @@ Peter氏は、Numpy、Scipyの開発者であるTravis Oliphant氏とともにCo
 この講演は、Peter氏の自己紹介とともにContinuum Analyticsを設立した2012年から現在までのPythonやデータサイエンスをとりまく環境とその変化を振り返りながら始まりました。
 2012年時点ではビッグデータに関するカンファレンスでもHadoopやJavaを利用したセッションが多かったようですが、現在ではPythonは[CM]()にまで登場するほどポピュラーな言語になっているとユーモアを交えて紹介されました。
 
-![写真: Peter氏による基調講演の様子](https://www.flickr.com/photos/pyconjp/36958072971/in/album-72157686296319644:embed)
+![写真: Peter氏による基調講演の様子](https://www.flickr.com/photos/pyconjp/36958072971/in/album-72157686296319644/)
 
 さて、5年前とは打って変わって非常にポピュラーになったPythonですが、なぜデータサイエンス分野でPythonを使うべきなのでしょうか。
 Peter氏が示したのは下記の2点でした。
@@ -38,7 +38,7 @@ Peter氏は、「Apache Arrow formatにより言語間での相互運用性が�
 講演後には質疑応答がありましたが、こちらも活発に質問が飛び交いとても盛り上がりました。
 キーノートの様子は質疑応答も含めて[こちら]()で動画配信していますので、ぜひご覧ください。
 
-![写真: 質疑応答の様子](https://www.flickr.com/photos/pyconjp/36286713873/in/album-72157686296319644:embed)
+![写真: 質疑応答の様子](https://www.flickr.com/photos/pyconjp/36286713873/in/album-72157686296319644/)
 
 ## 参考
 
