@@ -46,7 +46,7 @@ Keynoteの様子は質疑応答も含めて[こちら](https://www.youtube.com/w
 * [動画](https://www.youtube.com/watch?v=1Cb3OQTmeD4&list=WL&index=2)
 * [スライド](https://speakerdeck.com/sinhrks/pandasdefalseosshuo-dong-shi-li-tozui-chu-false-bu)
 
-# Pythonの本気！RaspberryPiやEdisonを使ったIoTシステムの構築
+# 2日目注目セッション「Pythonの本気！RaspberryPiやEdisonを使ったIoTシステムの構築」 - 北神雄太
 (山口 祐子)
 
 みなさん興味津々のIoTネタということで、北神雄太さんによる講演をご紹介します。  
@@ -55,7 +55,8 @@ Keynoteの様子は質疑応答も含めて[こちら](https://www.youtube.com/w
 
 北神さんがIoTに精通しているということで、おそらく会場の皆さんは「IoTでこんなことができました」系のトークを期待されていたと思います。  
 しかし北神さんは「できました系の話はつまらない。私はなぜそれができたかの話をします」というかっこいい発言で会場を沸かせていました。  
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36303044513/in/album-72157685754005651/" title="IMG_9558"><img src="https://farm5.staticflickr.com/4441/36303044513_8417bd2950_o.jpg" width="640" height="427" alt="IMG_9558"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+![](./36303044513_d4e6715962_z.jpg)
 
 「IoT時代においてPythonは最強」という主張をした北神さん。  
 Pythonはハードウェアが扱えるということがその理由だそうです。  
@@ -76,8 +77,9 @@ C言語では例えばレジスタへアクセスできるため、GPIOなどの
 トークでは、北神さん自作の自宅の温湿度モニタリングシステムを披露していました。  
 
 軽快なトークで会場を沸かせた北神さん。  
-講演の時間だけでは足りず、終了後も場所を変えて参加者とIoT話に花を咲かせていたようです。  
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36310774094/in/album-72157685754005651/" title="IMG_4900"><img src="https://farm5.staticflickr.com/4394/36310774094_877884cba7_o.jpg" width="640" height="472" alt="IMG_4900"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+講演の時間だけでは足りず、終了後も場所を変えて参加者とIoT話に花を咲かせていたようです。
+
+![](./36310774094_06b44f72f1_z.jpg)
 
 ### 資料リンク
 
@@ -86,12 +88,13 @@ C言語では例えばレジスタへアクセスできるため、GPIOなどの
 * [トゥギャッターまとめ](https://togetter.com/li/1148920)
 
 
-# SREエンジニアがJupyter＋BigQueryでデータ分析基盤をDev＆Opsする話
+# 2日目注目セッション「SREエンジニアがJupyter＋BigQueryでデータ分析基盤をDev＆Opsする話」 - yuzutas0
 (山口 祐子)
 
 株式会社リクルートテクノロジーズでグループのIT施策全般を担当されているyuzutas0さんの講演を紹介します。  
 プロダクト開発におけるデータ活用の一事例として、組織が抱えていた問題、そしてそれを解決するための取り組みをお話くださいました。  
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36998850801/in/album-72157685754005651/" title="IMG_9673"><img src="https://farm5.staticflickr.com/4416/36998850801_e8f881f64c_o.jpg" width="640" height="427" alt="IMG_9673"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+![](36998850801_97422dab13_z.jpg)
 
 yuzutas0さんが担当されているゼクシィ縁結びやゼクシィ恋結びでは事業が拡大しており、各部署にステークホルダーが多く存在していました。  
 yuzutas0さんのチームではステークホルダーへ多種多様なデータを提供しており、それらのデータを活用するためにはデータ自動化・可視化が不可欠と感じていました。  
@@ -144,7 +147,8 @@ Excel,Tableau,Re:dash,Jupyterなど、多様なViewに対応できるように�
 
 さて、PyCon JPでは毎回恒例のLT(Lightning Talk)があります。  
 プログラムに組み込まれている通常のトークは事前先行がありますが、LTに関しては各日先着順で申し込むことができます。  
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36925102386/in/album-72157685754005651/" title="IMG_9139"><img src="https://farm5.staticflickr.com/4418/36925102386_12505eb1c7.jpg" width="333" height="500" alt="IMG_9139"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+![](36925102386_12505eb1c7_z.jpg)
 
 2日目のLTは全部で8つ。  
 競馬でのデータ分析やPythonの設計思想の話など興味深い話が多い中、ここでは2つピックアップしてご紹介したいと思います。  
@@ -184,12 +188,14 @@ LTの熱気冷めやらぬ中、クロージングも多くの方にご参加い
 参加者から評価の高いトークを表彰したいという思いで今回企画されました。  
 優秀賞はGraham Dumpletonさんの「[Secrets of a WSGI master](https://pycon.jp/2017/ja/schedule/presentation/9/)」、yuzutas0さんの「[SREエンジニアがJupyter＋BigQueryでデータ分析基盤をDev＆Opsする話](https://pycon.jp/2017/ja/schedule/presentation/38/)」、そして最優秀賞はGreg Priceさんの「[Clearer Code at Scale: Static Types at Zulip and Dropbox](https://pycon.jp/2017/ja/schedule/presentation/12/)」でした。  
 残念ながら表彰式はyuzutas0さんのみとなりましたが、三者三様の興味深いトーク、とても素晴らしかったです！  
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36975518012/in/album-72157685754005651/" title="IMG_5009"><img src="https://farm5.staticflickr.com/4410/36975518012_dfec54c20b_o.jpg" width="640" height="427" alt="IMG_5009"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+![](./36975518012_b9bf8e45fb_z.jpg)
 
 その後、今年のDiamondスポンサーであるSQUEEZEの関根氏や一般社団法人PyCon JP寺田氏の挨拶に加えて、恒例のプレゼントタイムということでビンゴ大会が執り行われました。  
 Pythonカンファレンスらしくrandom関数で抽選をするという演出もありました。  
 スポンサー企業の皆様、今年も素敵なプレゼントの数々ありがとうございました！  
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/pyconjp/36957969096/in/album-72157685754005651/" title="IMG_5057"><img src="https://farm5.staticflickr.com/4358/36957969096_b76c1d789d.jpg" width="500" height="333" alt="IMG_5057"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+![](./36957969096_b76c1d789d_z.jpg)
 
 そして最後に来年のPyCon JPについてのお知らせが発表されました。  
 来年のカンファレンスは2018/09/17,18に[大田区産業プラザPiO](http://www.pio-ota.net/)で実施されます。ぜひ皆様、来年もお越しくださいね！  
