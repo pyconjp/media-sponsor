@@ -165,14 +165,17 @@ PyCon JPでは毎年ポスターセッションを行なっています。
 ![賑わうポスターセッション会場](./37147082335_b7234a3af8_z.jpg)
 
 1つ目は、Natsuko氏, PyLadies Tokyo, Kanan氏による「PyLadiesTokyoによるPyCon APAC イベントレポート★」です。
+
 このセッションは、Natsuko氏、Kanan氏の所属するPyLadies Tokyoメンバーによる8月にマレーシアで開催されたPyCon APACのイベントレポートでした。
 現地で撮影した写真をふんだんに使った手作り感のあるポスターは、カンファレンスの様子だけでなく、日本から参加したメンバーでの前夜祭やカンファレンスディナーの様子なども紹介しており、発表メンバーの方々の明るいトークもあいまって和やかな雰囲気で終始盛り上がっていました。
 
 ![PyLadiesTokyoによるPyCon APAC イベントレポート★の様子](./36310808254_5b787dbdb0_z.jpg)
 
 2つ目は、Ryuji Tsutsui氏による「Python Boot Campで全国にPythonの環を広げよう！」です。
+
 Python Boot Campとは一般社団法人PyCon JPによるPython初心者向けの地域開催型のイベントで、Ryuji Tsutsui氏はそのコアスタッフを務めています。
 こちらのセッションは、日本地図上にこれまでのPython Boot Camp開催地をマッピングしたポスターになっており、Python Boot Campがいろんな地域で開催されていることが一目でわかるものになっていました。
+
 また、当日の参加者に「Python Boot Campを開催して欲しい地域」「自分が現地スタッフになって開催したい地域」に付箋を貼ってもらうという企画あり、
 このポスターセッションをきっかけに次のPython Boot Camp候補地がいくつか決まったようでした。
 
