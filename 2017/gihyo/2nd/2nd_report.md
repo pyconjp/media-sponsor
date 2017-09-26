@@ -139,6 +139,16 @@ yuzutas0さんが担当されているゼクシィ縁結びやゼクシィ恋結
 [スライド: PyCon JPで彼女作ってみた。](https://slideship.com/users/@matsu7874/presentations/2017/09/43ha6mtJX4Z8mfGVBD6oD5/)  
 現在彼女がいないmatsu7874さんが、自らの技術力を駆使して彼女を作ってしまおうという（ネタ）企画です！Project KNJと命名されたこの企画では、twitterの過去のツイートを形態素解析(janome)し、マルコフ連鎖で短文生成(2-gram)、LINEアプリでおしゃべり(LINE Messaging API)させてしまおうという計画のもと進められました。一通り出来上がった後にKNJと対話を試みようとしましたが、意味不明の文章が帰ってきてしまい、まだまだ彼女をゲットするには程遠いという状況だったそうです。これにめげずに、頑張って理想のKNJを作り上げてくださいね！  
 
+2日目ライトニングトーク一覧  
+* Analyzing Airbnb data with SciPy : Colby Brown  
+* PyCon JPで彼女作ってみた。 : [matsu7874](https://twitter.com/matsu7874)  
+* May Python Prevail Everyone : [Daikids2](https://twitter.com/Daikids2)  
+* 医療画像のディープラーニング : abe-takashi  
+* 野球だけじゃない　競馬もデータ分析する！ : [anonaka](https://twitter.com/anonaka)  
+* Re:Respect The Built-in Names : [momijiame](https://twitter.com/momijiame)  
+* PythonがPythonらしくあるための19のフレーズ : [cocodrips](https://twitter.com/cocodrips)  
+* Introduce to FOSSASIA summit and project : [noahcse](https://twitter.com/noahcse)  
+
 ### 資料リンク
 
 * [動画](https://www.youtube.com/watch?v=VgppotZZdWs)
