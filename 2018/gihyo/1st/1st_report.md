@@ -10,8 +10,15 @@ PyCon JP 2018は2018年9月15日に株式会社HDEで行われたスプリント
 # 1日目基調講演「Argentina in Python: community, dreams, travels and learning」 ― Manuel Kaufmann
 
 1日目の基調講演はアルゼンチンから来日されたManuel Kaufmann氏による講演でした。
-Python Argentinaという「車で南米を旅行しPythonを広げる活動を行なっていることから、PyCon JP 2018のテーマ「ひろがるPython」にぴったりだということで白羽の矢がたちました。
-Kaufmann氏は、現在Read the Docsでソフトウェアエンジニアとして働いています。
+Kaufmann氏は、Python Argentinaという「車で南米を旅行しPythonを広げる」活動を行なっており、2016年2月にPSF Python Ambassadorとして表彰されています。これらの活動からPyCon JP 2018のテーマ「ひろがるPython」にぴったりだということで今回白羽の矢がたちました。
+Kaufmann氏は現在、Read the Docsでソフトウェアエンジニアとして働いています。
+
+今回の講演はKaufmann氏がどのようにして自分の夢を実現させてきたかというものでした。
+講演はKaufmann氏が初めてPythonと出会ったときの話からスタートします。
+在籍していた大学でのPython ArgentinaのイベントでPythonを知り、その文法を好きになったKaufmann氏はメーリングリストで質問をし、素晴らしい回答を得ながらPyGameでゲームを作りました。
+そのようなコミュニティから恩恵を受ける中で、恩返しをしたいという気持ちが芽生え始めます。
+PyConでトークを行ったり、Djangoに関する書籍の翻訳やアルゼンチン内を回って様々なコミュニティに参加するようになりました。
+その活動の最中にPythonを始めた頃に紹介してもらった[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)(日本語訳へのリンクはページ内にあります)で学んだいい質問の仕方が自分を成長させてくれたと実感したようです。本記事を読んでいるみなさんもぜひリンク先を読んでみてください。
 
 # 招待講演「東大松尾研流 実践的AI人材育成法」 ― 中山 浩太郎
 
