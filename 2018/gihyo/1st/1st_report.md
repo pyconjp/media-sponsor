@@ -7,9 +7,11 @@ PyCon JP 2018は2018年9月15日に株式会社HDEで行われたスプリント
 
 ここでは17〜18日に行われたカンファレンスのなかから、選りすぐりの注目セッションやイベントをレポートしていきます。
 
-# 1日目基調講演「Argentina in Python: community, dreams, travels and learning」 ― Kaufmann Manuel
+# 1日目基調講演「Argentina in Python: community, dreams, travels and learning」 ― Manuel Kaufmann
 
-(ここに書く@suyamar)
+1日目の基調講演はアルゼンチンから来日されたManuel Kaufmann氏による講演でした。
+Python Argentinaという「車で南米を旅行しPythonを広げる活動を行なっていることから、PyCon JP 2018のテーマ「ひろがるPython」にぴったりだということで白羽の矢がたちました。
+Kaufmann氏は、現在Read the Docsでソフトウェアエンジニアとして働いています。
 
 # 招待講演「東大松尾研流 実践的AI人材育成法」 ― 中山 浩太郎
 
