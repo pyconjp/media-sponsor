@@ -87,11 +87,32 @@ PythonではWSGIと呼ばれる仕様があるため、その仕様に沿えば�
 
 # Interpretable Machine Learning, making black box models explainable with Python!
 
-(ここに書く@ohori)
+Low 氏は、機械学習の解釈可能性について発表しました。
+
+2018 年 5 月より施行された EU 一般データ保護規則（GDPR）の 22 条によると、自動化されたシステムによる意思決定の影響を受ける者はその意思決定に対して説明を要求する権利を有するとあります。したがって、解釈可能なモデルやモデルを説明する技術は、今後機械学習システムを構築する上で重要な要素となります。Low 氏は、モデルに依存しない手法として以下を解説した後、犬種の画像認識を例に Floydhub 上で作成したデモを公開していました。
+
+* Partial Dependence Plot (PDP)
+* Individual Conditional Expectation (ICE)
+* Feature importance
+* 代理モデル（LIME）
+
+### 資料リンク
+
+* [動画](https://www.youtube.com/watch?v=DGGpHARTNUE&t=422s)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book)
+* [LIME](https://github.com/marcotcr/lime)
+* [ELI5](https://github.com/TeamHG-Memex/eli5)
 
 # How to Data Wrangling? Tips for using python libraries for big-data analysis including scikit-learn.
 
-(ここに書く@ohori)
+松岡氏は、大規模データ分析における scikit-learn の tips について発表しました。
+
+例えば、scikit-learn に実装されている L2 正則化ロジスティック回帰は、デフォルトソルバとして座標降下法（LIBLINEAR）を採用しています。しかし、目的関数が強凸性を満たすことから、大規模データの場合は SAG や SAGA を用いた方が解の収束が速いことが知られています。松岡氏は、ソルバを変更するだけで計算時間が劇的に変化する様をベンチマークデータセットを用いて紹介しました。その他、GPU 上で高速に動作する SVM 実装 ”ThunderSVM” や、K-Means の収束しやすい初期値を見つける "afkmc2" について解説がありました。
+
+### 資料リンク
+
+* [ThunderSVM](https://github.com/Xtra-Computing/thundersvm)
+* [afkmc2](https://github.com/adriangoe/afkmc2)
 
 # LTx3
 
