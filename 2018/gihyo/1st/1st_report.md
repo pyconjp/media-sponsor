@@ -98,7 +98,7 @@ Low 氏は、機械学習の解釈可能性について発表しました。
 
 ### 資料リンク
 
-* [動画](https://www.youtube.com/watch?v=DGGpHARTNUE&t=422s)
+* [動画](https://www.youtube.com/watch?v=DGGpHARTNUE)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book)
 * [LIME](https://github.com/marcotcr/lime)
 * [ELI5](https://github.com/TeamHG-Memex/eli5)
