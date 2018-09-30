@@ -9,6 +9,8 @@ PyCon JP 2018は2018年9月15日に株式会社HDEで行われたスプリント
 
 # 1日目基調講演「Argentina in Python: community, dreams, travels and learning」 ― Manuel Kaufmann
 
+（陶山嶺）
+
 1日目の基調講演はアルゼンチンから来日されたManuel Kaufmann氏による講演でした。
 Kaufmann氏は、Python Argentinaという「車で南米を旅行しPythonを広げる」活動を行なっており、2016年2月にPSF Python Ambassadorとして表彰されています。これらの活動からPyCon JP 2018のテーマ「ひろがるPython」にぴったりだということで今回白羽の矢がたちました。
 Kaufmann氏は現在、Read the Docsでソフトウェアエンジニアとして働いています。
@@ -36,6 +38,8 @@ Kaufmann氏にとっては`print "Hello world!"`が現実のものとなった�
 
 # 招待講演「東大松尾研流 実践的AI人材育成法」 ― 中山 浩太郎
 
+（陶山嶺）
+
 今年の招待講演は、AIの人材育成をテーマに東京大学松尾研究室リサーチディレクターの中山 浩太郎氏にお話していただきました。
 中山氏の所属する東京大学工学系研究科技術経営戦略学専攻松尾研究室は5年間で1900人以上の受講者にディープラーニングやデータサイエンスを教えてきたそうです。
 その中で実際にAI人材の育成に携わってきた経験や大事にしていることを丁寧に伝えていただいたので紹介します。
@@ -56,6 +60,8 @@ Kaufmann氏にとっては`print "Hello world!"`が現実のものとなった�
 * [動画](https://www.youtube.com/watch?v=shaG3p8wtlQ)
 
 # 1日目注目セッション「Webアプリケーションの仕組み」 ― Takayuki Shimizukawa
+
+（陶山嶺）
 
 Takayuki Shimizukawa氏による「Webアプリケーションの仕組み」と題されたセッションを紹介します。
 Shimizukawa氏は昨年のPyCon JP 2017でも[len()関数がオブジェクトの長さを手にいれる仕組み](https://pycon.jp/2017/ja/schedule/presentation/22/)というタイトルでセッションを行い、その説明のわかりやすさから大きな反響がありました。
@@ -85,7 +91,9 @@ PythonではWSGIと呼ばれる仕様があるため、その仕様に沿えば�
 * [動画](https://www.youtube.com/watch?v=L7j2zgtpV9c)
 * [スライド](https://goo.gl/3vBMzZ)
 
-# Interpretable Machine Learning, making black box models explainable with Python!
+# 1日目注目セッション「Interpretable Machine Learning, making black box models explainable with Python!」 ― David Low
+
+（大堀優）
 
 Pand.aiのチーフデータサイエンティストであるLow氏は、機械学習の解釈可能性について発表しました。
 
@@ -105,7 +113,9 @@ Low氏は、モデルに依存しない手法として以下を紹介した後�
 * [LIME](https://github.com/marcotcr/lime)
 * [ELI5](https://github.com/TeamHG-Memex/eli5)
 
-# How to Data Wrangling? Tips for using python libraries for big-data analysis including scikit-learn.
+# 1日目注目セッション「How to Data Wrangling? Tips for using python libraries for big-data analysis including scikit-learn.」 ― 松岡光
+
+（大堀優）
 
 不均衡データに関する研究をしている松岡氏は、大規模データ分析におけるscikit-learnのtipsについて発表しました。
 
@@ -128,30 +138,35 @@ K-Meansは、クラスタの中心の初期値によって収束速度が大き�
 * [ThunderSVM](https://github.com/Xtra-Computing/thundersvm)
 * [afkmc2](https://github.com/adriangoe/afkmc2)
 
-# LTx3
+# 1日目ライトニングトーク
+
+（二宮健）
 
 PyCon JP 2018では，1日目，2日目ともにクロージングでライトニングトークを行いました。1日目は4枠+スポンサー企業の1枠の発表があり、その中から3つピックアップしてご紹介します。
 
-## 「テキストマイニングによるTwitter個人アカウントの性格推定」Jumpei Yoshimura
+## 「テキストマイニングによるTwitter個人アカウントの性格推定」 ― Jumpei Yoshimura
 
 普段は株式会社アイリッジでサーバーサイドエンジニアとして働いているという吉村さん。
 
-「片思い中のあの人の性格を推定してみよう」として、Pythonの各種ライブラリを使ってツイートの収集や分析を行っていました。ツイッターで「エゴグラム」の結果をツイートしているアカウントのデータを正解データとして分類していた点が、とてもスマートに感じました。
+「片思い中のあの人の性格を推定してみよう」として、Pythonの各種ライブラリを使ってツイートの収集や分析を行っていました。
+ツイッターで「エゴグラム」の結果をツイートしているアカウントのデータを正解データとして分類していた点が、とてもスマートに感じました。
 
-実際にライブコーディングで実行して「皆さんが絶賛片思い中の[PyCon JP](https://twitter.com/pyconj)のアカウントは『お人好しタイプ』だと分かりました」と言うと会場から拍手が巻き起こっていました。導入時点では正直、「ストーカーの話だけど大丈夫なの？」とスタッフ同士顔を見合わせてる場面もあったのですが、終わってみると真面目でユーモアもある発表だったと思います
+実際にライブコーディングで実行して「皆さんが絶賛片思い中の[PyCon JP](https://twitter.com/pyconj)のアカウントは『お人好しタイプ』だと分かりました」と言うと会場から拍手が巻き起こっていました。導入時点では正直、「ストーカーの話だけど大丈夫なの？」とスタッフ同士顔を見合わせてる場面もあったのですが、終わってみると真面目でユーモアもある発表だったと思います。
 
-## 「Why your Django account registration should use a Turing test...」Marc-Andre Lemburg
+## 「Why your Django account registration should use a Turing test...」 ― Marc-Andre Lemburg
 
 EuroPython SocietyのChairも務めているMarcさんの発表です。
 
-今年の6月に[EuroPython](https://ep2018.europython.eu/)のWEBサイトにサイバー攻撃があり、元々5000人程度ユーザーデータベースに対して、およそ30000人程度の新規登録がされていたそうです。
-その時は運良くIPアドレスでブロッキングできたものの、再び攻撃が来たときのために対策したという話でした。
+今年の6月に[EuroPython](https://ep2018.europython.eu/)のWEBサイトにサイバー攻撃があり、元々5000人程度ユーザーデータベースに対して、およそ30000人程度の新規登録がされていたそうです。
+その時は運良く数日で攻撃がやんだものの、再び攻撃が来たときのために対策したという話でした。
 
-そこで、EuroPythonで利用しているDjangoを利用しているため、実際に人間がアクセスしていることを確認するTuring TestとしてTextcha(テキストベースのCaptcha)を導入したそうです。GDPRの影響でGoogleのCaptchaを使わない判断をしたというのがヨーロッパならではの苦労話で印象的でした。
+EuroPythonのサイトにはDjangoを利用していて、実際に人間がアクセスしていることを確認するTuring TestとしてTextcha(テキストベースのCaptcha)を導入したそうです。
+GDPRの影響でGoogleのCaptchaを使わない判断をしたというのがヨーロッパならではの苦労話で印象的でした。
 
-## 「医学研究者が深層学習環境の立ち上げの際に苦労した話」Satoshi TAKAHASHI
+## 「医学研究者が深層学習環境の立ち上げの際に苦労した話」 ― Satoshi TAKAHASHI
 
-元々は脳外科医だという高橋さん。医学研究というとWet（ピペットやマウスを使って実験を行う分野）を想像しがちですが、2010年頃からDry（情報処理を使う分野）な「大きなデータを持ってきて推論するような分野がメインストリームになってきている」そうです。しかし、医学研究者のコンピュータサイエンスのリテラシーが必ずしも高くないという問題があるそうです。
+元々は脳外科医だという高橋さん。医学研究というとWet（ピペットやマウスを使って実験を行う分野）を想像しがちですが、2010年頃からDry（情報処理を使う分野）な「大きなデータを持ってきて推論するような分野がメインストリームになってきている」そうです。
+しかし、医学研究者のコンピュータサイエンスのリテラシーが必ずしも高くないという問題があるそうです。
 
 そんな周囲の人に頼れない状況で、大量データからの推論のために深層学習環境を立ち上げる際に起こった、「ドライバーやtoolkitのアップデートが早く、公式情報に当たるのが確実だった」「大学の電源が落ちることが合ったのでAPSを導入した」などの苦労話をされていました。
 
@@ -164,8 +179,6 @@ EuroPython SocietyのChairも務めているMarcさんの発表です。
 * Why your Django account registration should use a Turing test... : Marc-Andre Lemburg
 * 医学研究者が深層学習環境の立ち上げの際に苦労した話 : Satoshi TAKAHASHI
 * 暗号通貨技術・ブロックチェーン技術を活用するCrypto-Fintech Lab. : Narisa Takita
-
-
 
 # 次回は
 
