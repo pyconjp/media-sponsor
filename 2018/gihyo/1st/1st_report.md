@@ -61,6 +61,8 @@ Kaufmann氏にとっては`print "Hello world!"`が現実のものとなった�
 
 これらのことから、松尾研究室では"Numpy Test System"と呼ばれる自作のシステムで受講生のレベルを合わせ、プログラミング中心、コンペティション、コミュニティを創るの3つの要素を柱としてAI人材を育成しているとのことでした。
 
+![招待講演の中山先生](./_static/NakayamaKotaro.jpg)
+
 ### 資料リンク
 
 * [動画](https://www.youtube.com/watch?v=shaG3p8wtlQ)
@@ -85,6 +87,7 @@ PythonではWSGIと呼ばれる仕様があるため、その仕様に沿えば�
 このセッションの[スライド](https://goo.gl/3vBMzZ)は多くのキーワードがリンクになっています。
 気になる用語、知らない用語があればぜひリンク先まで参照してみることをおすすめします。
 
+![分かりやすい説明に定評のある清水川氏](./_static/ShimizukawaTakayuki.jpg)
 
 ### 資料リンク
 
