@@ -109,6 +109,8 @@ Low氏は、モデルに依存しない手法として以下を紹介した後�
 * Feature importance
 * 代理モデル（LIME）
 
+![解釈可能性について紹介するLow氏](./_static/DavidLow.jpg)
+
 ### 資料リンク
 
 * [動画](https://www.youtube.com/watch?v=DGGpHARTNUE)
