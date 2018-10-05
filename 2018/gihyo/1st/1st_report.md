@@ -34,6 +34,8 @@ Kaufmann氏にとっては`print "Hello world!"`が現実のものとなった�
 
 発表の中ではさまざまな場所やイベントで撮ったたくさんの写真を見せてくれています。セッション動画もぜひご覧ください。
 
+![基調講演を行うManuel Kaufmann氏](./_static/ManuelKaufmann.jpg)
+
 ### 資料リンク
 
 * [動画](https://www.youtube.com/watch?v=KwmF5wyY2C4)
