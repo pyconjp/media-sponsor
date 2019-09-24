@@ -91,11 +91,16 @@ Pythonの構文でシェルのコマンドを作れる例として、
 
 ## 2日目ライトニングトーク一覧
 
-今回ご紹介しきれなかったものも含め、2日目のライトニングトークの一覧はこちらです。また、Pythonの公式アカウントに[ライトニングトークの動画](https://www.youtube.com/watch?v=UShlTE8wdzU)がアップロードされています。
+今回ご紹介しきれなかったものも含め、2日目のライトニングトークの一覧はこちらです。また、PyCon JPの公式アカウントに[ライトニングトークの動画](https://www.youtube.com/watch?v=UShlTE8wdzU)がアップロードされています。
+
+査読付きLT
 
 - Shunsuke Kawai / Python製シェルXonshの紹介
 - 長谷川大耀 / pythonで、処理をより効率化するためのTips集
 - Huang Kunxian / Python in the Belle II experiment
+
+当日LT
+
 - PyCon 2019 NOC Team / 1000人のっても大丈夫!!なWi-Fiを建てるお仕事
 - Mizuki Sato / PyConJP2018で勇気をもらってPythonエンジニアになった話
 - nikkie / PyCon JP スタッフをして思うこと
