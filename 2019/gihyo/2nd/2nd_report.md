@@ -55,16 +55,27 @@ AWS Fargateを使い、その内部でAirflowを使ってカラム名を寄せ�
 * [動画](https://www.youtube.com/watch?v=T0JVQWfnRAo)
 * [スライド](https://speakerdeck.com/matsudan/pycon-jp-2019-xin-mi-pythonistagazeng-ruairflowru-men-and-huo-yong-shi-li-shao-jie)
 
-# トークセッション（4）
+# Ansibleを通じて「べき等性」を理解してみよう
 
-@HiraoMotoki
+(@HiraoMotoki)
 
-![写真タイトル](./_static/hogehuga.jpg)
+Kazuya Takei氏による「Ansibleを通じて「べき等性」を理解してみよう」の発表です。
+冪等性とはざっくりいうとある操作を何度実行しても、同じ結果になる性質を持つことを意味します。
+AnsibleはPython製の構成管理ツールで、主にサーバーのセットアップなどに用いられます。Ansibleでは「動作」でなく「状態」を定義して使用する特徴があります。この理由を設定ファイル内のPlaybackを見ながら説明をなされていました。
+同じPlaybackを実行しても2回目以降は状態に変化がないことから、ある操作を何度実行しても同じ結果になるので、
+Ansibleは定義された「状態に対する冪等性」を担保されるようになっています。
+
+発表の後半では実際のAnsibleのコードを読みながら、Ansibleが実現している冪等性についてお話されていました。
+pip コマンド経由で、Pythonパッケージの状態を管理するpipモジュールを例として取り上げていました。
+コードの内部では、求める状態に応じて、地道にコマンドを生成していました。実行結果（リターンコード、標準出力、標準エラー）を見ながら、状態に変化があったかどうかを判定していました。
+
+
+![Kazuya Takei氏](./_static/KazuyaTakei.jpg)
 
 ### 資料リンク
 
-* [動画]()
-* [スライド]()
+* [動画](https://www.youtube.com/watch?v=Em1xC5bIGl0)
+* [スライド](https://attakei.net/slides/pyconjp-2019/index.html/)
 
 # 2日目ライトニングトーク
 
