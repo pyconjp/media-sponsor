@@ -36,17 +36,25 @@
 * [動画]()
 * [スライド]()
 
-# トークセッション（3）
+# Introduction to FEM Analysis with Python
 
-@HiraoMotoki
+(@HiraoMotoki)
 
-![写真タイトル](./_static/hogehuga.jpg)
+Tetsuo Koyama氏による「Introduction to FEM Analysis with Python」の発表です。発表は英語で行われました。
+FEM（finite element method、有限要素法）はPED（partial differential equations、偏微分方程式）を解くために用いられます。GetFEM++はPDEをFEMで解くためのフレームワークを提供しています。Qhull、MUMPS、LAPACK/BLAS、Numpy/Scipyなど、数値計算に必要なライブラリも合わせて必要なようです。
+
+コードと一緒にオブジェクトを扱う例を紹介していました。Mesher Object、Mesh Object、MeshFem Object、Model Objectと、それらに関連するいくつかのメソッドが紹介されました。
+最後にLaplacian Brick, RHS and conditionを用いて数式を解き、グラフィカルな表示と検算を行うことの解説をされていました。
+
+質問もいくつか出ており、この技術の応用例、その他の解析手法の利用、3Dモデルへの利用、解析を行うPCのスペックについて回答していました。
+
+
+![写真タイトル](./_static/TatsuoKoyama.jpg)
 
 ### 資料リンク
 
-* [動画]()
-* [スライド]()
-
+* [動画](https://www.youtube.com/watch?v=6JuB1GiDLQQ)
+* [スライド](https://gitpitch.com/tkoyama010/OpenCAE-tkoyama010/PyConJP2019#/)
 
 # トークセッション（4）
 
