@@ -67,7 +67,7 @@ New Eraということで「Python3で新しいこと始めてみませんか？
 ### 資料リンク
 
 * [動画](https://www.youtube.com/watch?v=0bTPOsVvG7g&t=1380)
-* [スライド]() TODO確認必要
+* [スライド](https://www.slideshare.net/ikemkt/pyconjp2019python)
 
 # トークセッション（1）
 
