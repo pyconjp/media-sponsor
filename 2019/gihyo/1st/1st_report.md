@@ -73,6 +73,12 @@ Visual Studio Code, emacs, vim, PyCharmといった主なエディタはツー�
 最後に「退屈なこと(コーディング規約や型アノテーションのチェック)は機械(ツール)がやってくれる。ツールを活用してレビュアーが本質的なレビューに集中できるようにすることが開発の効率化につながる」と小田切氏は述べました。
 また、豊富なアドオンがあるテストツールpytestについて各自のプロジェクトに導入できそうなアドオンを調べ、CIに導入してみることを提案しました。
 
+![ビギナーズセッションを行う小田切氏](./_static/aodag_beginners_session.jpg)
+
+- [動画](https://www.youtube.com/watch?v=1FcLwOpXuAI)
+
+- [スライド](https://www.slideshare.net/aodag/python-172432039) 
+
 # トークセッション（1）
 
 @ussy
