@@ -38,7 +38,7 @@
 
 # Introduction to FEM Analysis with Python
 
-(@HiraoMotoki)
+(平尾 元紀）
 
 Tetsuo Koyama氏による「Introduction to FEM Analysis with Python」の発表です。発表は英語で行われました。
 FEM（finite element method、有限要素法）はPED（partial differential equations、偏微分方程式）を解くために用いられます。GetFEM++はPDEをFEMで解くためのフレームワークを提供しています。Qhull、MUMPS、LAPACK/BLAS、Numpy/Scipyなど、数値計算に必要なライブラリも合わせて必要なようです。
