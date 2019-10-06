@@ -64,11 +64,25 @@ PyCon JPは、Pythonユーザが集まり、PythonやPythonを使ったソフト
 
 説明 @ksugahara
 
-## 1つ目タイトル
+## 「Python製シェルXonshの紹介」 ー Shunsuke Kawai
 
-@nikkie
+（nikkie）
 
-![写真タイトル](./_static/hogehuga.jpg)
+日本人で一番Xonsh（コンシュ）にコントリビュートしていると自負するKawai氏によるXonshの紹介ライトニングトークです。
+
+Xonshとは、**Pythonとシェルスクリプトを扱えるシェル環境**です。
+`pip install xonsh`で導入できます。
+書き慣れたPythonの構文やモジュールを使ってシェルを扱えるため、敷居が低いシェルという紹介でした。
+
+Pythonの構文でシェルのコマンドを作れる例として、
+
+- `pickle`で保存した`pandas`のDataFrameを整形してシェル上に表示する
+- `matplotlib`で描画したグラフをシェル上に表示する
+
+が紹介されました。
+**コマンドとしてまとめられる**のは`ipython`より便利かもと感じました。Xonsh試してみたいです。
+
+![Xonshのコマンド例について話すKawai氏](./_static/kawaishi_xonsh.jpg)
 
 
 ## 2つ目タイトル
@@ -79,9 +93,20 @@ PyCon JPは、Pythonユーザが集まり、PythonやPythonを使ったソフト
 
 ## 2日目ライトニングトーク一覧
 
-@nikkie
+今回ご紹介しきれなかったものも含め、2日目のライトニングトークの一覧はこちらです。また、PyCon JPの公式アカウントに[ライトニングトークの動画](https://www.youtube.com/watch?v=UShlTE8wdzU)がアップロードされています。
 
-今回ご紹介しきれなかったものも含め、2日目のライトニングトークの一覧はこちらです。また、Pythonの公式アカウントに[ライトニングトークの動画]()がアップロードされています。
+査読付きLT
+
+- Shunsuke Kawai / Python製シェルXonshの紹介
+- 長谷川大耀 / pythonで、処理をより効率化するためのTips集
+- Huang Kunxian / Python in the Belle II experiment
+
+当日LT
+
+- PyCon 2019 NOC Team / 1000人のっても大丈夫!!なWi-Fiを建てるお仕事
+- Mizuki Sato / PyConJP2018で勇気をもらってPythonエンジニアになった話
+- nikkie / PyCon JP スタッフをして思うこと
+- IOSIF TAKAKURA / ZAPPA悲哀物語
 
 # クロージング
 
