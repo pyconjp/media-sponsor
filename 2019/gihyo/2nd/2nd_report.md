@@ -50,7 +50,7 @@ FoxDotで使える音色は大きく分けて3種類です。
 3. それ以外: シンセサイザーのような音
 
 FoxDotではPlayerObjectと呼ばれるオブジェクトで音色とその設定であるSynthDefsを操作します。SynthDefsでは属性を編集することで音色や音高、長さを変更できます。
-SynthDefsの中では繰り返し表現をしたりや時間による変化をつけることができます。
+SynthDefsの中では繰り返し表現をしたり時間による変化をつけることができます。
 繰り返し表現はPatternObjectを使い、listの先頭にPをつけて表します。PatternObjectを使うことで冗長なコードを避けることができます。
 時間による変化はTimeDependentVariablesを使います。実行ごとに結果を変えることができます。
 
