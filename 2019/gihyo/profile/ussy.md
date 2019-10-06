@@ -10,4 +10,5 @@ Pythonに関しては、大学院にて機械学習、社会人にてDjangoで�
 を行っている。
 
 ポートフォリオ: [Ussy's portfolio](https://sudo5in5k.github.io/portfolio/)
+
 Twitter: [@shoushi12](https://twitter.com/shoushi12)
