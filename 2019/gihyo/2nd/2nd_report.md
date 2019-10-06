@@ -35,7 +35,7 @@
 * [動画]()
 * [スライド]()
 
-# 新米Pythonistaが贈るAirflow入門 & 活用事例紹介のレポート
+# 2日目注目セッション「新米Pythonistaが贈るAirflow入門 & 活用事例紹介」ー松田直樹
 
 （平尾 元紀）
 
@@ -48,14 +48,16 @@ AirflowではPythonコードでワークフローをDAG（Directed acyclic graph
 AWS Fargateを使い、その内部でAirflowを使ってカラム名を寄せるなどの処理を実現し、活用可能なデータの取り出しを実現していました。
 実現する上でハマったポイントの共有もありました。タスク間のデータのやり取りと、Dockerを用いたローカル開発環境の構築についてお話されていました。
 
-![松田直樹氏](./_static/NaokiMatsuda.jpg)
+エンジニア業務に入って9月で1年とのことでしたが、AirflowとAWSのサービスを組み合わせ、開発をより円滑にするための業務改善に生かしている点が素晴らしいと思いました。
+
+![Pythonコードでのワークフロー定義（DAG）を説明する松田直樹氏](./_static/NaokiMatsuda.jpg)
 
 ### 資料リンク
 
 * [動画](https://www.youtube.com/watch?v=T0JVQWfnRAo)
 * [スライド](https://speakerdeck.com/matsudan/pycon-jp-2019-xin-mi-pythonistagazeng-ruairflowru-men-and-huo-yong-shi-li-shao-jie)
 
-# Ansibleを通じて「べき等性」を理解してみよう
+# 2日目注目セッション「Ansibleを通じて「べき等性」を理解してみよう」ーKazuya Takei
 
 （平尾 元紀）
 
@@ -69,13 +71,14 @@ Ansibleは定義された「状態に対する冪等性」を担保されるよ�
 pip コマンド経由で、Pythonパッケージの状態を管理するpipモジュールを例として取り上げていました。
 コードの内部では、求める状態に応じて、地道にコマンドを生成していました。実行結果（リターンコード、標準出力、標準エラー）を見ながら、状態に変化があったかどうかを判定していました。
 
+Ansibleが実現している冪等性について理解するとともに、発表で取り上げられていたコード断片を見ていると、Ansibleの内部ではリターンコードの値を見ながら処理したりしていて、人気のあるライブラリも中では地道に作られているのだなということを知る良い機会となりました。
 
-![Kazuya Takei氏](./_static/KazuyaTakei.jpg)
+![Ansibleの概要を説明するKazuya Takei氏](./_static/KazuyaTakei.jpg)
 
 ### 資料リンク
 
 * [動画](https://www.youtube.com/watch?v=Em1xC5bIGl0)
-* [スライド](https://attakei.net/slides/pyconjp-2019/index.html/)
+* [スライド](https://attakei.net/slides/pyconjp-2019/index.html)
 
 # 2日目ライトニングトーク
 
