@@ -6,8 +6,8 @@
 Pythonに関しては、大学院にて機械学習、社会人にてDjangoでのシステム開発経験があり、プログラミング言語の中で一番好き。
 前職はAndroidアプリエンジニア、現在は[株式会社サポーターズ](https://corp.supporterz.jp/)にて
 * エンジニア専門の中途エージェントとして転職支援やキャリア相談
-* 自社勉強会プラットフォームの[サポーターズCoLab](https://supporterzcolab.com/)にてマネージャーとして勉強会の企画・運営・自身の登壇
+* 自社勉強会プラットフォームの[サポーターズCoLab](https://supporterzcolab.com/)にてマネージャーとして勉強会やハッカソンの企画・運営・自身の登壇
 を行っている。
 
 ポートフォリオ: [Ussy's portfolio](https://sudo5in5k.github.io/portfolio/)
-Twitter: [@shoushi12](https://twitter.com/ftnext)
+Twitter: [@shoushi12](https://twitter.com/shoushi12)
