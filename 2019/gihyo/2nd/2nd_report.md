@@ -116,16 +116,51 @@ HDF5ファイルはローカルに保存するだけではなく、REST APIを�
 * [スライド](https://speakerdeck.com/thinkami/pycon-jp-2019-talk)
 * [プレゼン用GitHubリポジトリ](https://github.com/thinkAmi/PyCon_JP_2019_talk)
 
-# トークセッション（2）
+# Pythonでライブをしよう -FoxDotを使った新時代のPython活用法- - 田中 慎太郎
 
-@nao_y
+(横山直敬)
 
-![写真タイトル](./_static/hogehuga.jpg)
+株式会社日本システム技研所属の田中 慎太郎氏による発表です。
+
+FoxDotとは、音響合成用プログラミング環境・言語のSuperColliderをPythonから操作するためのライブラリです。
+SuperColliderを用いるとリアルタイムに音響を合成することができます。SuperCollider自体は独自のプログラミング言語ですが、
+FoxDotによりインタラクティブシェルやJupyter NotebookからPythonの文法でSuperColliderの機能を使うことができます。
+
+![田中 慎太郎氏](_static/tanaka_foxdot.jpg)
+
+音楽や映像をインタラクティブに生成するパフォーマンスを「ライブコーディング」と呼びます。「ライブコーディング」の特徴は偶然性と即興性のあるアルゴリズミックなアプローチができることです。
+田中氏はDTMを趣味にしており「ライブコーディング」の存在自体は知っていましたが、当初はプログラミングする必要性に疑問を持っていたそうです。しかし「[そのDJたちは「コード」で踊らせる──人間と機械が“共創”するアルゴレイヴの世界](https://wired.jp/2019/05/19/algoraves-live-coding-djs/)」という記事に触発されてライブコーディングを始めました。
+
+FoxDotで使える音色は大きく分けて3種類です。
+
+1. play: ドラム音源。文字ごとに別々の音源が割り当てられている
+
+2. loop: 自前で用意した音声ファイルのループ。
+
+3. それ以外: シンセサイザーのような音
+
+FoxDotではPlayerObjectと呼ばれるオブジェクトで音色とその設定であるSynthDefsを操作します。SynthDefsでは属性を編集することで音色や音高、長さを変更できます。
+SynthDefsの中では繰り返し表現をしたり時間による変化をつけることができます。
+繰り返し表現はPatternObjectを使い、listの先頭にPをつけて表します。PatternObjectを使うことで冗長なコードを避けることができます。
+時間による変化はTimeDependentVariablesを使います。実行ごとに結果を変えることができます。
+
+
+以下に示すのがFoxDotのコード例です。普段、目にしているPythonの文法とは大きく異なっています。PlayerObjectへのSynthDefsの割り当てにはシフト演算子が使われていますし、PatternObjectはlistが元になっています。
+この通常のPythonと異なる振る舞いはPythonのオブジェクトが持つ特殊メソッドを使って、元の振る舞いを上書きすることが実現していると説明していました。
+
+```python
+d1 >> play("X-O-")
+p1 >> pluck([0, 1, 2, 3, 4, 3, 2, 1], dur=1/2, amp=1.5) 
+p2 >> pluck(P[[0, 1, 2, 3, 4])
+```
+
+Pythonは主にWeb開発やデータ分析で活躍していますが、これからはそこにライブコーディングも加わっていきそうです。
+トークセッションでは実際に田中氏がFoxDotを使ったライブコーディングを行う一幕もありました。実際にどのようなパフォーマンスができるのか気になる方はぜひ動画もチェックしてみてください。
 
 ### 資料リンク
 
-* [動画]()
-* [スライド]()
+* [動画](https://www.youtube.com/watch?v=lCQWLAJf6xQ)
+* [スライド](https://speakerdeck.com/sin_tanaka_21/pyconjp-2019)
 
 # トークセッション（3）
 
