@@ -149,7 +149,7 @@ Visual Studio Code, emacs, vim, PyCharmといった主なエディタはツー�
 
 * [動画](https://www.youtube.com/watch?v=9-OIHTJdDew&t=530s)
 
-# 1日目注目セッション「Pythonを使ったAPIサーバー開発を始める際に整備したCIとテスト機構」 ー Higashiguchi Kazuki
+## 注目セッション「Pythonを使ったAPIサーバー開発を始める際に整備したCIとテスト機構」 ー Higashiguchi Kazuki
 
 (牛窪翔)
 
