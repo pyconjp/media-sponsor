@@ -147,7 +147,7 @@ SynthDefsの中では繰り返し表現をしたり時間による変化をつ�
 時間による変化はTimeDependentVariablesを使います。実行ごとに結果を変えることができます。
 
 
-以下に示すのがFoxDotのコード例です。普段、目にしているPythonの文法とは大きく異なっています。PlayerObjectへのSynthDefsの割り当てにはシフト演算子が使われ、PatternObjectはlistが元になっています。
+以下に示すのがFoxDotのコード例です。普段、目にしているPythonの文法とは大きく異なっています。PlayerObjectへのSynthDefsの割り当てにはシフト演算子が使われていますし、PatternObjectはlistが元になっています。
 この通常のPythonと異なる振る舞いはPythonのオブジェクトが持つ特殊メソッドを使って、元の振る舞いを上書きすることが実現していると説明していました。
 
 ```python
