@@ -6,7 +6,7 @@ PyCon JPは日本国内外のPythonユーザーが一堂に会し、互いに交
 
 各講演・セッションの紹介の最後に、動画やスライドのリンクも紹介してますので、当日参加した方もできなかった方も、気になったものをさらにチェックしてみてください。
 
-# 2日目基調講演「Pythonで切り開く新しい農業」 ー 小池 誠
+## 基調講演「Pythonで切り開く新しい農業」 ー 小池 誠
 
 （nikkie）
 
@@ -73,7 +73,7 @@ New Eraということで「Python3で新しいこと始めてみませんか？
 * [動画](https://www.youtube.com/watch?v=0bTPOsVvG7g&t=1380)
 * [スライド](https://www.slideshare.net/ikemkt/pyconjp2019python)
 
-# 2日目注目セッション「知ろう！使おう！HDF5ファイル！」 ー thinkAmi
+## 注目セッション「知ろう！使おう！HDF5ファイル！」 ー thinkAmi
 
 （nikkie）
 
@@ -118,7 +118,7 @@ HDF5ファイルはローカルに保存するだけではなく、REST APIを�
 * [スライド](https://speakerdeck.com/thinkami/pycon-jp-2019-talk)
 * [プレゼン用GitHubリポジトリ](https://github.com/thinkAmi/PyCon_JP_2019_talk)
 
-# Pythonでライブをしよう -FoxDotを使った新時代のPython活用法- - 田中 慎太郎
+## 注目セッション「Pythonでライブをしよう -FoxDotを使った新時代のPython活用法-」 - 田中 慎太郎
 
 (横山直敬)
 
@@ -135,11 +135,11 @@ FoxDotによりインタラクティブシェルやJupyter NotebookからPython�
 
 FoxDotで使える音色は大きく分けて3種類です。
 
-1. play: ドラム音源。文字ごとに別々の音源が割り当てられている
+1. play: ドラム音源。文字ごとに別々の音源が割り当てられている。
 
 2. loop: 自前で用意した音声ファイルのループ。
 
-3. それ以外: シンセサイザーのような音
+3. それ以外: シンセサイザーのような音。
 
 FoxDotではPlayerObjectと呼ばれるオブジェクトで音色とその設定であるSynthDefsを操作します。SynthDefsでは属性を編集することで音色や音高、長さを変更できます。
 SynthDefsの中では繰り返し表現をしたり時間による変化をつけることができます。
@@ -164,16 +164,19 @@ Pythonは主にWeb開発やデータ分析で活躍していますが、これ�
 * [動画](https://www.youtube.com/watch?v=lCQWLAJf6xQ)
 * [スライド](https://speakerdeck.com/sin_tanaka_21/pyconjp-2019)
 
-# 2日目注目セッション「新米Pythonistaが贈るAirflow入門 & 活用事例紹介」ー松田直樹
+## 注目セッション「新米Pythonistaが贈るAirflow入門 & 活用事例紹介」ー松田直樹
 
 （平尾 元紀）
 
 松田直樹氏による「新米Pythonistaが贈るAirflow入門 & 活用事例紹介」の発表です。
+
 Airflowとは元Airbnb製のPythonで作られたオープンソースで、バッチ処理からなるワークフローのスケジューリング＆モニタリングが可能なプラットフォームです。現在はApacheソフトウェア財団が管理、開発を活発に行なっています。
+
 AirflowではPythonコードでワークフローをDAG（Directed acyclic graph, 有向非巡回グラフとも）表現します。
 これによりワークフローを構成するタスクを作成し、処理を実行していきます。
 
 発表では、社内での活用事例を取り上げていました。社内向けのデジタル広告プランニングツールを開発するプロダクトに携わっているそうですが、その中の課題としてデータがRDBに入っていないものがあり必要なデータをたどるのが大変であるという課題がありました。そこで、データマートを作成することで、開発プロダクト用に必要なデータを作成する方法についてお話されていました。
+
 AWS Fargateを使い、その内部でAirflowを使ってカラム名を寄せるなどの処理を実現し、活用可能なデータの取り出しを実現していました。
 実現する上でハマったポイントの共有もありました。タスク間のデータのやり取りと、Dockerを用いたローカル開発環境の構築についてお話されていました。
 
@@ -187,7 +190,7 @@ AWS Fargateを使い、その内部でAirflowを使ってカラム名を寄せ�
 * [動画](https://www.youtube.com/watch?v=T0JVQWfnRAo)
 * [スライド](https://speakerdeck.com/matsudan/pycon-jp-2019-xin-mi-pythonistagazeng-ruairflowru-men-and-huo-yong-shi-li-shao-jie)
 
-# 2日目注目セッション「Ansibleを通じて「べき等性」を理解してみよう」ーKazuya Takei
+## 注目セッション「Ansibleを通じて「べき等性」を理解してみよう」ーKazuya Takei
 
 （平尾 元紀）
 
@@ -256,24 +259,19 @@ Pythonの構文でシェルのコマンドを作れる例として、
 
 ![Mizuki Sato氏](./_static/sato_lt.jpg)
 
-## 2日目ライトニングトーク一覧
+## ライトニングトーク一覧
 
-今回ご紹介しきれなかったものも含め、2日目のライトニングトークの一覧はこちらです。また、PyCon JPの公式アカウントに[ライトニングトークの動画](https://www.youtube.com/watch?v=UShlTE8wdzU)がアップロードされています。
-
-査読付きLT
+今回ご紹介しきれなかったものも含め、ライトニングトークの一覧はこちらです。また、PyCon JPの公式アカウントに[ライトニングトークの動画](https://www.youtube.com/watch?v=UShlTE8wdzU)がアップロードされています。
 
 - Shunsuke Kawai / Python製シェルXonshの紹介
 - 長谷川大耀 / pythonで、処理をより効率化するためのTips集
 - Huang Kunxian / Python in the Belle II experiment
-
-当日LT
-
 - PyCon 2019 NOC Team / 1000人のっても大丈夫!!なWi-Fiを建てるお仕事
 - Mizuki Sato / PyConJP2018で勇気をもらってPythonエンジニアになった話
 - nikkie / PyCon JP スタッフをして思うこと
 - IOSIF TAKAKURA / ZAPPA悲哀物語
 
-# クロージング
+## クロージング
 
 （平尾 元紀）
 
