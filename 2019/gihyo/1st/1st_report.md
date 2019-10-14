@@ -314,12 +314,12 @@ PyCon JPというスタッフ活動のゴールの場で、参加者の方に労
 
 今回ご紹介しきれなかったものも含め、ライトニングトークの一覧はこちらです。また、PyCon JPの公式アカウントに[ライトニングトークの動画](https://www.youtube.com/watch?v=7U2D5tcMZb4)がアップロードされています。
 
-- Is your bot ALIVE? Monitor chatbot from a user's perspective: petertc
-- Pythonで始めるオレオレブラウザ: 栗田真
-- How to get more than just PyCon in a PyCon: Wei Lee
-- 「ありがとう」と言おう: イクバル・アバドゥラ
-- OpenAPI Generatorで自分好みのPythonクライアントライブラリを生成する方法: yuji38kwmt
-- 今日のsetuptools: Atsushi Odagiri
+* Is your bot ALIVE? Monitor chatbot from a user's perspective: petertc
+* Pythonで始めるオレオレブラウザ: 栗田真
+* How to get more than just PyCon in a PyCon: Wei Lee
+* 「ありがとう」と言おう: イクバル・アバドゥラ
+* OpenAPI Generatorで自分好みのPythonクライアントライブラリを生成する方法: yuji38kwmt
+* 今日のsetuptools: Atsushi Odagiri
 
 
 

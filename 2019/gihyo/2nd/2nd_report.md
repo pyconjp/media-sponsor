@@ -263,13 +263,13 @@ Pythonの構文でシェルのコマンドを作れる例として、
 
 今回ご紹介しきれなかったものも含め、ライトニングトークの一覧はこちらです。また、PyCon JPの公式アカウントに[ライトニングトークの動画](https://www.youtube.com/watch?v=UShlTE8wdzU)がアップロードされています。
 
-- Python製シェルXonshの紹介: Shunsuke Kawai
-- pythonで、処理をより効率化するためのTips集: 長谷川大耀
-- Python in the Belle II experiment: Huang Kunxian
-- 1000人のっても大丈夫!!なWi-Fiを建てるお仕事: PyCon 2019 NOC Team
-- PyConJP2018で勇気をもらってPythonエンジニアになった話: Mizuki Sato
-- PyCon JP スタッフをして思うこと: nikkie
-- ZAPPA悲哀物語: IOSIF TAKAKURA
+* Python製シェルXonshの紹介: Shunsuke Kawai
+* pythonで、処理をより効率化するためのTips集: 長谷川大耀
+* Python in the Belle II experiment: Huang Kunxian
+* 1000人のっても大丈夫!!なWi-Fiを建てるお仕事: PyCon 2019 NOC Team
+* PyConJP2018で勇気をもらってPythonエンジニアになった話: Mizuki Sato
+* PyCon JP スタッフをして思うこと: nikkie
+* ZAPPA悲哀物語: IOSIF TAKAKURA
 
 ## クロージング
 
