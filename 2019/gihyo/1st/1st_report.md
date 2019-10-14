@@ -187,7 +187,7 @@ CIでは、プロダクトのコード変更の度に、自動化されたビル
 （平尾 元紀）
 
 Tetsuo Koyama氏による「Introduction to FEM Analysis with Python」の発表です。発表は英語で行われました。
-FEM（finite element method、有限要素法）は複雑になってしまったPED（partial differential equations、偏微分方程式）に対して、近似解を得るための手法です。GetFEM++はFEMをPDEに適応するためのフレームワークを提供しています。Qhull、MUMPS、LAPACK/BLAS、Numpy/Scipyなど、数値計算に必要なライブラリも合わせて入れているようです。
+FEM（finite element method、有限要素法）は複雑になってしまったPED（partial differential equations、偏微分方程式）に対して、近似解を得るための手法です。GetFEM++はFEMをPDEに適応するためのフレームワークを提供しています。セッションではQhull、MUMPS、LAPACK/BLAS、Numpy/Scipyなど、数値計算用のライブラリも合わせて入れているようでした。
 
 コードと一緒にオブジェクトを扱う例を紹介していました。Mesher Object、Mesh Object、MeshFem Object、Model Objectと、それらに関連するいくつかのメソッドが紹介されました。
 最後にLaplacian Brick, RHS and conditionを用いて数式を解き、グラフィカルな表示と検算を行うことの解説をしていました。
