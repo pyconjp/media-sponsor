@@ -279,6 +279,7 @@ PyQt5とは、C++のクロスプラットフォームフレームワークでGUI
 
 ![写真タイトル](./_static/kurita.jpg)
 
+[スライド](https://www.slideshare.net/ShinKurita/my-browser-with-python3-172131107)
 
 ## 「『ありがとう』と言おう」 ー イクバル・アバドゥラ
 
@@ -307,6 +308,7 @@ PyCon JPというスタッフ活動のゴールの場で、参加者の方に労
 
 ![OSSの燃え尽きは私たちの問題と指摘するイクバル氏](./_static/iqbal_lt_thank_you.jpg)
 
+[スライド](https://www.slideshare.net/xoxzo/pycon-jp-2019-lt)
 
 ## ライトニングトーク一覧
 
