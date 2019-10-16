@@ -238,6 +238,7 @@ Pythonの構文でシェルのコマンドを作れる例として、
 
 ![Xonshのコマンド例について話すKawai氏](./_static/kawaishi_xonsh.jpg)
 
+[スライド](https://speakerdeck.com/vaaaaanquish/pycon2019-pythonzhi-sieruxonshfalseshao-jie)
 
 ## PyConJP2018で勇気をもらってPythonエンジニアになった話 - Mizuki Sato
 
@@ -258,6 +259,8 @@ Pythonの構文でシェルのコマンドを作れる例として、
 「今年はPythonエンジニアとしてここに立っています！」という言葉に胸を熱くした参加者の方は多いのではないでしょうか。私もその一人で、PyCon JPはカンファレンスを通じて知識や技術を共有する場所というだけでなく、Mizuki氏や@__yumechi氏のように自分のキャリアを大きく変えるチャンスがある場所でもあることを強く認識することができました。
 
 ![Mizuki Sato氏](./_static/sato_lt.jpg)
+
+[スライド](https://speakerdeck.com/mizzsugar/pyconjp2018de-yong-qi-womoratute-pythonenzinianinatutahua)
 
 ## ライトニングトーク一覧
 
