@@ -190,8 +190,7 @@ Tetsuo Koyama氏による「Introduction to FEM Analysis with Python」による
 FEMは複雑になってしまったPED（partial differential equations、偏微分方程式）に対して、近似解を得るための手法です。GetFEM++はFEMをPDEに適応するためのフレームワークを提供しています。セッションではQhull、MUMPS、LAPACK/BLAS、Numpy/Scipyなど、数値計算用のライブラリも合わせて入れているようでした。
 
 GetFEM++での解析の実演に移り、オブジェクトモデルを扱うチュートリアルにてコード例の紹介がありました。Mesher Object、Mesh Object、MeshFem Object、Model Objectと、それらに関連するいくつかのメソッドについて話されました。最後にLaplacian Brick, RHS and conditionを用いて数式を解き、グラフィカルな表示と検算を行うことの解説をしていました。
-グラフィカルな結果の表示にはMiyaviを用いている、とのことです。
-
+グラフィカルな結果の表示にはMiyaviを用いているそうです。
 
 質疑応答では、この技術の応用例として建物や家具の構造解析が紹介されました。また、その他の解析手法の利用、3Dモデルへの利用、解析を行うPCのスペックについて意見交換がなされました。
 
