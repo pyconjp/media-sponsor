@@ -289,7 +289,7 @@ PyCon JP 2019終了時に参加者の方に回答頂いたアンケートでは�
 
 1つ目に一般社団法人PyCon JPから商標権の報告がありました。「Python」を商標登録している会社に対し、米Pythonソフトウエア財団（PSF）と一緒に行動するとのことでした。
 
-2つ目に一般社団法人PyCon JPは、4つのPythonカンファレンスと10回のPython Boot Campに支援したという報告がありました。また新しい試みとしてOSCにPython Caravanとして参加することや、PyLadies Caravan、Python Boot Campの参加者にPyCon JPへの遠方参加支援を始めたとのことです。
+2つ目に一般社団法人PyCon JPは、2019年は4つのPythonカンファレンスを支援し、10回のPython Boot Campを開催・計画したという報告がありました。また新しい試みとしてOSCにPython Caravanとして参加することや、PyLadies Caravan、Python Boot Campの参加者にPyCon JPへの遠方参加支援を始めたとのことです。
 PyCon JP 2019でも金銭的なサポートや運営の相談に乗ってもらっており、一般社団法人PyCon JPはコミュニティを支える、なくてはならない存在となっています。
 
 セッションの裏側ではコミュニティのミートアップも行われ、盛況だったとのことです。東京のPyCon JPだけではなく、ぜひタイミングがありましたら地方のPyConにも参加してみてください。
