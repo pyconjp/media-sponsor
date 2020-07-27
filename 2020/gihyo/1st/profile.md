@@ -20,3 +20,8 @@ Facebook：[ainamori01](https://www.facebook.com/ainamori01)
 Twitter：[@ainamori](https://twitter.com/ainamori)
 
 Github：[ainamori](https://github.com/ainamori)
+
+花井　宏行（はないひろゆき）
+事務局チームリーダー。PyCon JPには2018年からPython未経験のまま参加。スタッフ参加がきっかけでPythonに興味を持ち，日々勉強中。
+
+Twitter: [@hanahiro_aze](https://twitter.com/hanahiro_aze)
