@@ -8,4 +8,6 @@ Pythonによるアクセスログ解析入門
 では、Pythonを利用するところはどこかというとデータを処理するところで、データを取得後にリアルタイムで可視化・集計しながら探索したい場合やデータを取得後に高度な処理が必要な場合は現状ではまだSQLだけでは難しくPythonを使って加工をしています。
 また実際の処理の仕方として、株式会社Gunosyが公開しているデータセットを利用しデータセットの読み込みから記事単位での集計や記事推薦など、pandasを用いたサンプルコードが[Googlecolab上に提供されています](https://colab.research.google.com/drive/1r4GcXWvM-j-dlfT0XF-O-Y5DiyAM-gGq?usp=sharing)。
 
+![log-ss](./log-ss.png)
+
 他にもKaggleへの出題や年齢推定など応用例もあがっていますので気になる方は[こちらから動画アーカイブや発表資料](https://2021.pycon.jp/time-table/?id=269506)を御覧ください。
