@@ -77,6 +77,6 @@ PyCon JP 2021ではクロージングの前にライトニングトークを行�
 
 カンファレンス 1 日目のレポートは以上です。今回紹介できなかったセッションも多数あるのですが，それらは下記のリンクから見ることができます。みなさまの気になるセッションやトークは見つかりましたか？
 
-- [Youtube PyCon JP 公式アカウント](https://www.youtube.com/user/PyConJP/featured)
+- [Youtube PyCon JP 2021 再生リスト](https://www.youtube.com/playlist?list=PLMkWB0UjwFGkc0NVMnI5i0N8GkkU4x4k6)
 
 カンファレンス 2 日目のレポートも楽しみにしていてください！
