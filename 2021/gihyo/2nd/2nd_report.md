@@ -132,7 +132,7 @@ Handler、Formatter以外のloggingモジュールの構成要素を無意識に
 
 アプリケーションの設定ですと簡単なものでしたらコードで直接指定、クラス構造がはっきりしているものは `logging.config.dictConfig` で行った方が最善ではないかなと説明を聞いていて感じました。
 
-AWSならびにGCPでの出力の仕方については、Twelve-Factor Appを前提としてAWSではLambda及びAWS Glue Python Shellジョブタイプを用いたCloudWatch Logsへの出力、GCPではCloud Functions及びCloud Runを用いたCloud Loggingへの出力のプログラム例について説明がありました。
+AWSならびにGCPでの出力の仕方については、Twelve-Factor Appを前提としてAWSではAWS Lambda及びAWS Glue Python Shellジョブタイプを用いたAmazon CloudWatch Logsへの出力、GCPではCloud Functions及びCloud Runを用いたCloud Loggingへの出力のプログラム例について説明がありました。
 詳細は割愛しますが、実際にGitHubに[ソースコード](https://github.com/tosh2230/pycon-jp-2021)があるとのことですので、実際に手を動かしてみるのも良いかと思います。
 
 筆者(神田)自身ここ最近Pythonを触り出した者としてloggingモジュールが標準で用意されていることは知っているものの、構成要素等詳細なところまではわからないところがありました。このセッションでどういう構成要素がどんな動きをするかが理解出来、設定方法のバリエーションやパブリッククラウドでの利用例等も聞けて有意義でした。
