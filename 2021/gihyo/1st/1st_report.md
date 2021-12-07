@@ -56,7 +56,7 @@ YouTubeで使用したBERT-MCTSは2・3日で作成できたと言い、短時�
 
 池内氏は株式会社HakaliのCTOとしてメンタルウェルネスアプリ・Awarefyの事業・開発における責任者として活動しているエンジニアで、PythonのほかにDart(Flutter)やGo、TypeScriptを使いこなしています。
 
-このセッションではFastAPIを使った、Pythonにおけるドメイン駆動設計とレイヤード・アーキテクチャ、とりわけオニオン・アーキテクチャの実践に焦点を当てて紹介しています。筆者は設計を明確にするアーキテクチャとしてロバート・C・マーチン氏、通称ボブおじさんのクリーン・アーキテクチャをはじめに思いつきました。しかし、クリーン・アーキテクチャは難しいため理解するのに挫折する人も多く、池内氏は効果的なレイヤード・アーキテクチャとしてクリーン・アーキテクチャより学習コストの低いオニオン・アーキテクチャを使うことを提案しています。
+このセッションではFastAPIを使った、Pythonにおけるドメイン駆動設計とレイヤード・アーキテクチャ、とりわけオニオン・アーキテクチャの実践に焦点を当てて紹介しています。ドメイン駆動設計とは、事業やサービスが取り扱う世界の知識をコードに落とし込む開発手法です。ドメイン駆動設計に取り組む意義は、チームが共通言語を獲得し、ドメインが解決しようとしている現実の課題に関心事を向けることにあると池内氏は述べています。
 
 <iframe class="speakerdeck-iframe" style="border: 0px none; background: rgba(0, 0, 0, 0.1) none repeat scroll 0% 0% padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" src="https://speakerdeck.com/player/4f00341da0b44c3290826c89304c6403?slide=20" title="Python で学ぶ実践的なドメイン駆動設計とレイヤードアーキテクチャ / DDD and Onion Architecture in Python" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-ratio="1.78343949044586" frameborder="0"></iframe>
 
