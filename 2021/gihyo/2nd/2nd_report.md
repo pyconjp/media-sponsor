@@ -10,7 +10,7 @@
 
 （nikkie）
 
-この10月にリリースされたPython3.10。
+2021年10月、PyCon JP 2021の少し前にリリースされたPython3.10。
 その目玉機能といえば、Structural Pattern Matching（以下、 **パターンマッチ**）ですね！
 PyCon JP 2021 2日目のキーノートスピーカーは、[パターンマッチのPEP](https://www.python.org/dev/peps/pep-0622/)の筆頭著者のBrandtさんです。
 パターンマッチについて
