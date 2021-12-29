@@ -10,7 +10,7 @@
 
 （nikkie）
 
-この10月にリリースされたPython3.10。
+2021年10月、PyCon JP 2021の少し前にリリースされたPython3.10。
 その目玉機能といえば、Structural Pattern Matching（以下、 **パターンマッチ**）ですね！
 PyCon JP 2021 2日目のキーノートスピーカーは、[パターンマッチのPEP](https://www.python.org/dev/peps/pep-0622/)の筆頭著者のBrandtさんです。
 パターンマッチについて
@@ -42,12 +42,20 @@ def fizzbuzz(number):
         case _, _: return str(number)
 ```
 
-destructuringは耳慣れない言葉でしたが、例を通じて、パターンマッチの中で **オブジェクトから値を取り出す** ことと理解しました。
-リスト、辞書、クラスなどは、パターンマッチの中でアンパックや属性アクセスを使うことで、値を取り出して処理を進められます。
+destructuringは耳慣れない言葉でしたが、例を通じて、パターンマッチの中で **オブジェクトから特定の値を取り出す** ことと理解しました。
+例えば、リストのパターンマッチでは、アンパック代入のようにして処理を進めることもできます！
+
+```python
+match meal:  # mealは長さ2のリストを指す
+    case entrée, side:  # entrée, side = meal と同じ
+        ...  # entrée や side を使った処理が書ける！
+```
+
+辞書やクラスでも同様に、指定したキーや属性の値を変数に代入できます。
 これは他の言語のswitch文とは大きく違うところと理解しました。
 
 Implementationでは、バイトコードの解説や、**soft keyword** による後方互換性について説明がありました。
-``match match:`` のように書け、過去に書いたコードも修正不要というのは、パターンマッチを導入しやすそうですね。
+`match match:` のように書け、過去に書いたコードも修正不要というのは、パターンマッチを導入しやすそうですね。
 
 Futureのパートによると、制御構造として冗長な動きやUnreachable checkを改善していくそうです。
 
@@ -55,6 +63,8 @@ Futureのパートによると、制御構造として冗長な動きやUnreacha
 [言語リファレンスのmatch文の項目](https://docs.python.org/ja/3/reference/compound_stmts.html#the-match-statement)を読んでみたりすると
 パターンマッチに習熟できそうですね。
 パターンマッチを使ったコードを書くのが楽しみになるキーノートでした！
+
+Brandtさんのキーノートが気になった方は、[こちら](https://2021.pycon.jp/time-table/?id=290209)からご覧ください。
 
 ## セッション「Pythonによるアクセスログ解析入門」 - 石原 祥太郎氏
 
